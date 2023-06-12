@@ -1,0 +1,108 @@
+.jordan{
+    width: 225px;
+    height: 145px;
+}
+a{
+    text-transform: uppercase;
+    font-style: inherit;
+    font-size: 45px;
+    color: black;
+    font-family: cursive;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.n{
+    position: absolute;
+    top:40px;
+    left: 17%;
+
+}
+.e{
+    position: absolute;
+    top:40px;
+    left: 42%;
+}
+.c{
+    position: absolute;
+    top:40px;
+    left: 53%;
+}
+.d{
+    position: absolute;
+    top:40px;
+    left: 70%;
+}
+.lupa{
+    width: 45px;
+    position:absolute;
+    top:40px;
+    left: 89%;
+}
+.koszyk{
+    width: 85px;
+    position:absolute;
+    top:18px;
+    left: 92%;
+}
+.dol{
+    width: 99%;
+    height: 90px;
+    position: absolute;
+    top: 90%;
+    background-color: red;
+}
+h6{
+    color: white;
+    font-family: cursive;
+    font-size: 29px;
+    position: absolute;
+    top: -55%;
+    left: 44%;
+
+}
+.but{
+    width: 550px;
+    height: 700px;
+    position: absolute;
+    left: 12%;
+    top: 10%;
+}
+h1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-family: cursive;
+}
+h3{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    font-family: cursive;
+    font-size: 23px;
+}
+select{
+    width: 120px;
+    height: 50px;
+    font-size: 23px;
+    font-family: cursive;
+}
+.button{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    width: 300px;
+    height: 70px;
+    font-size: 30px;
+    font-family: cursive;
+}
+.black{
+    width: 590px;
+    height: 700px;
+    position: absolute;
+    left: 12%;
+    top: 10%;
+}

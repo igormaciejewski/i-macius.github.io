@@ -1,0 +1,142 @@
+.kategorie{
+    height: auto;
+    width: 200px;
+}
+.t:hover{
+    color: red;
+}
+.jordan{
+    width: 225px;
+    height: 145px;
+}
+a{
+    text-transform: uppercase;
+    font-style: inherit;
+    font-size: 45px;
+    color: black;
+    font-family: cursive;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.n{
+    position: absolute;
+    top:40px;
+    left: 17%;
+
+}
+.e{
+    position: absolute;
+    top:40px;
+    left: 42%;
+}
+.c{
+    position: absolute;
+    top:40px;
+    left: 53%;
+}
+.d{
+    position: absolute;
+    top:40px;
+    left: 70%;
+}
+.lupa{
+    width: 45px;
+    position:absolute;
+    top:40px;
+    left: 89%;
+}
+.koszyk{
+    width: 85px;
+    position:absolute;
+    top:18px;
+    left: 92%;
+}
+.dol{
+    width: 99%;
+    height: 90px;
+    position: absolute;
+    top: 90%;
+    background-color: red;
+}
+h1{
+    font-size: 35px;
+    font-family: cursive;
+}
+h2{
+    font-size: 25px;
+    font-family: cursive;
+}
+h3{
+    font-size: 15px;
+    font-family: cursive;
+}
+h4{
+    font-size: 25px;
+    font-family: cursive;
+}
+h5{
+    font-size: 15px;
+    font-family: cursive;
+}
+h6{
+    color: white;
+    font-family: cursive;
+    font-size: 29px;
+    position: absolute;
+    top: -55%;
+    left: 44%;
+
+}
+.shoess{
+    position: absolute;
+    top:17%;
+    left:18%; 
+    width: 400px;
+    height: 500px;
+}
+.shoesss{
+    position: absolute;
+    top: 17%;
+    left: 45%; 
+    width: 450px;
+    height: 550px;
+}
+.shoessss{
+    position: absolute;
+    top: 17%;
+    left: 71%; 
+    width: 400px;
+    height: 500px;
+}
+.a{
+    position: absolute;
+    top: 68%;
+    left: 365px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.b{
+    position: absolute;
+    top: 68%;
+    left: 915px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.f{
+    position: absolute;
+    top: 68%;
+    left: 75%;
+    font-size: 25px;
+    font-family: cursive;
+}
+x:hover{
+    color: red;
+}
+.button{
+    width: 180px;
+    height: 40px;
+}
